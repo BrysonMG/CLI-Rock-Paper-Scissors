@@ -1,4 +1,5 @@
 # CLI Rock, Paper, Scissors
+If you want to watch a video demo of this app, click here: https://www.youtube.com/watch?v=M4EVu3uME4c
 ### How To Play
 * Clone this repo
 * In your terminal, navigate into the root directory of this project
